@@ -1,6 +1,6 @@
 ## Introduction
 
-This GitHub repository contains the `sops-decrypt-hook.nix` file, which is designed to be used as a shell hook in Nix development environments. This hook simplifies the process of decrypting a configuration file encrypted using [SOPS (Secrets Operator)](https://github.com/mozilla/sops) and adding its contents as environment variables within a dev shell.
+This GitHub repository contains the `sops-decrypt-hook.nix` file, which is designed to be used as a shell hook in Nix development environments. This hook simplifies the process of decrypting a configuration file encrypted using [SOPS (Secrets OPerationS)](https://github.com/mozilla/sops) and adding its contents as environment variables within a dev shell.
 
 ## Usage
 
